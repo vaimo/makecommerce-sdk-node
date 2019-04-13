@@ -11,7 +11,11 @@
     "url": "https://github.com/maksekeskus/sdk-node.git"
   },
   "keywords": [],
-  "author": {"name" : "Makecommrce.net", "email" : "devops@maksekeskus.ee", "url" : "https://www.makecommerce.net/"},
+  "author": {
+    "name": "Makecommrce.net",
+    "email": "devops@maksekeskus.ee",
+    "url": "https://www.makecommerce.net/"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/maksekeskus/sdk-node/issues"
